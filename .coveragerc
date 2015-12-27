@@ -1,0 +1,5 @@
+[run]
+include = ra_support/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
